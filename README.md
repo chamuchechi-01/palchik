@@ -1,1 +1,0 @@
->Prochitay main.py
