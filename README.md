@@ -1,1 +1,1 @@
-Prochitay menya
+Prochitay main.py
