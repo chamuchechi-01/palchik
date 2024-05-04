@@ -1,1 +1,1 @@
-Prochitay main.py
+>Prochitay main.py>
